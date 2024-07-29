@@ -1,4 +1,4 @@
-# Category Items Filter Assessment for Reingold
+# Category Items Filter Assessment
 
 ## Description
 
